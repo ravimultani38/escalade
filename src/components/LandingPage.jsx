@@ -44,7 +44,7 @@ const LandingPage = () => {
 
         <div className="hero-image">
           <img 
-            src="src/assets/images/Cadillac.png"
+            src="./src/assets/images/Cadillac.png"
             alt="Luxury Black Escalade SUV"
           />
         </div>
